@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3061b432-1525-430a-bbfd-2fa79e4ab8a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/whitelisted_dApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/contracts/Whitelist.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/deploys.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/hardhat.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/scripts/deploy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hhsrc/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2CU2sHK0LBiB7cgE7Ir0QcjAQIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/hhsrc/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/whitelist_dapp_fe/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3061b432-1525-430a-bbfd-2fa79e4ab8a3" name="Changes" comment="" />
+      <created>1658843048062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658843048062</updated>
+      <workItem from="1658843050299" duration="2121000" />
+      <workItem from="1658846050964" duration="1094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+</project>
