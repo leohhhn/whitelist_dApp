@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3061b432-1525-430a-bbfd-2fa79e4ab8a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/whitelisted_dApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/contracts/Whitelist.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/deploys.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/hardhat.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/scripts/deploy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhsrc/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/styles/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/whitelist_dapp_fe/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/front/whitelist_dapp_fe/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhsrc/deploys.md" beforeDir="false" afterPath="$PROJECT_DIR$/hhsrc/deploys.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hhsrc/hardhat.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hhsrc/hardhat.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/hhsrc/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,6 +52,16 @@
       <updated>1658843048062</updated>
       <workItem from="1658843050299" duration="2121000" />
       <workItem from="1658846050964" duration="1094000" />
+      <workItem from="1658847322068" duration="259000" />
+      <workItem from="1658847590022" duration="580000" />
+      <workItem from="1658923714136" duration="317000" />
+      <workItem from="1658926807363" duration="10000" />
+      <workItem from="1658926950292" duration="16000" />
+      <workItem from="1658929117607" duration="24000" />
+      <workItem from="1658929312597" duration="100000" />
+      <workItem from="1659002041060" duration="277000" />
+      <workItem from="1659002370661" duration="138000" />
+      <workItem from="1659002572553" duration="639000" />
     </task>
     <servers />
   </component>
